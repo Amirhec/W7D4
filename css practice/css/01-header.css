@@ -1,5 +1,39 @@
 /* PHASE 1: Header */
 
+body{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    font-weight: 400;
+    background: #eee;
+
+
+}
+
+.header{
+    background-color: red;
+    text-decoration: none;
+}
+
+
+.end{
+   display: flex;
+   justify-content: flex-end;
+   padding-bottom: 30px;
+ 
+}
+
+.Logo{
+    padding-top: 25px;
+  
+}
+
+li {
+    list-style: none;
+    display: inline;
+    text-decoration: none;
+    color: white;
+}
+
 
 
 
